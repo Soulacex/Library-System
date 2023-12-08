@@ -1,0 +1,5 @@
+host: localhost
+database: Library
+user: Soulacex
+password: Tulane1996
+port: 5432
