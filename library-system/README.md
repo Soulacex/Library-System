@@ -1,3 +1,36 @@
+# Library System
+
+A full stack application for a fictional library system with all of your favorite books, (mostly).
+
+License
+
+
+## Summary
+
+This project is a combination of a React web application and a Python backend script interacting with a PostgreSQL database. The React App serves as the frontend, displaying information retrieved from the database, while the Python script handles database operations. The README provides detailed instructions on setting up the development environment, installing dependencies, configuring the database, and running both the React App and the backend script.
+
+## Tools and Technologies
+
+- **Frontend:**
+  - React
+  - Reactstrap (for UI components)
+  - Bootstrap (for styling)
+  - Axios (for handling HTTP requests)
+
+- **Backend:**
+  - Python
+  - Flask (as the backend framework)
+  - Psycopg2 (for PostgreSQL database connectivity)
+
+- **Database:**
+  - PostgreSQL
+
+- **Other:**
+  - YAML for configuration
+  - npm (Node package manager) for managing frontend dependencies
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
