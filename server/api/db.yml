@@ -1,5 +1,5 @@
 host: localhost
 database: Library
 user: Soulacex
-password: Tulane1996
+password: example-password
 port: 5432
